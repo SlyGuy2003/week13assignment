@@ -1,0 +1,26 @@
+nav{
+    width: 100vw;
+    background-color: aqua;
+    font-size: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    list-style-type: none;
+    ;
+
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+ }
+li{
+    list-style-type: none;
+    margin-right: 1rem;
+    
+ }
+
+ li:hover {
+    color:gray;
+
+ }

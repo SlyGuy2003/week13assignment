@@ -1,0 +1,13 @@
+body{
+    display: flex;
+}
+
+form{
+    margin: 5px;
+    padding: 5px;
+    border: 5px dashed aqua;
+    justify-content: center;
+    margin-left: 39.5%;
+    margin-right: 34.5%;
+    padding: 6px;
+}
